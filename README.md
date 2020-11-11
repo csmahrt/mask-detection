@@ -1,3 +1,5 @@
+![Mask Detection Banner](https://i.imgur.com/mU4ezLO.png)
+
 # Using Bing Images to Create a Mask Compliance Classifier
 
 ### Summary
